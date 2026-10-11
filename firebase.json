@@ -3,10 +3,11 @@
     "public": ".",
     "ignore": [
       "firebase.json",
+      ".firebaserc",
       "**/.*",
+      "**/*.zip",
       "**/node_modules/**",
       "README.md",
-      "gemini_generated_video_6cd83e58.mp4",
       "desktop.ini"
     ],
     "cleanUrls": true,
