@@ -12,6 +12,12 @@
     ],
     "cleanUrls": true,
     "trailingSlash": false,
+    "rewrites": [
+      {
+        "source": "/google7b11f1225658a566.html",
+        "destination": "/google7b11f1225658a566.html"
+      }
+    ],
     "headers": [
       {
         "source": "**",
